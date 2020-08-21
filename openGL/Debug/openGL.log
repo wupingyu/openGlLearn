@@ -1,0 +1,25 @@
+﻿  OpenGl_1.cpp
+D:\OpenGl\openGL\OpenGl_1.cpp(26,2): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+OpenGl_1.obj : error LNK2019: 无法解析的外部符号 _gl3wInit，该符号在函数 _main 中被引用
+OpenGl_1.obj : error LNK2019: 无法解析的外部符号 _glfwInit，该符号在函数 _main 中被引用
+OpenGl_1.obj : error LNK2019: 无法解析的外部符号 _glfwTerminate，该符号在函数 _main 中被引用
+OpenGl_1.obj : error LNK2019: 无法解析的外部符号 _glfwCreateWindow，该符号在函数 _main 中被引用
+OpenGl_1.obj : error LNK2019: 无法解析的外部符号 _glfwDestroyWindow，该符号在函数 _main 中被引用
+OpenGl_1.obj : error LNK2019: 无法解析的外部符号 _glfwWindowShouldClose，该符号在函数 _main 中被引用
+OpenGl_1.obj : error LNK2019: 无法解析的外部符号 _glfwPollEvents，该符号在函数 _main 中被引用
+OpenGl_1.obj : error LNK2019: 无法解析的外部符号 _glfwMakeContextCurrent，该符号在函数 _main 中被引用
+OpenGl_1.obj : error LNK2019: 无法解析的外部符号 _glfwSwapBuffers，该符号在函数 _main 中被引用
+OpenGl_1.obj : error LNK2019: 无法解析的外部符号 _LoadShaders，该符号在函数 "void __cdecl init(void)" (?init@@YAXXZ) 中被引用
+OpenGl_1.obj : error LNK2001: 无法解析的外部符号 _gl3wDrawArrays
+OpenGl_1.obj : error LNK2001: 无法解析的外部符号 _gl3wBindBuffer
+OpenGl_1.obj : error LNK2001: 无法解析的外部符号 _gl3wEnableVertexAttribArray
+OpenGl_1.obj : error LNK2001: 无法解析的外部符号 _gl3wUseProgram
+OpenGl_1.obj : error LNK2001: 无法解析的外部符号 _gl3wVertexAttribPointer
+OpenGl_1.obj : error LNK2001: 无法解析的外部符号 _gl3wClearBufferfv
+OpenGl_1.obj : error LNK2001: 无法解析的外部符号 _gl3wBindVertexArray
+OpenGl_1.obj : error LNK2001: 无法解析的外部符号 _gl3wGenVertexArrays
+OpenGl_1.obj : error LNK2001: 无法解析的外部符号 _gl3wCreateBuffers
+OpenGl_1.obj : error LNK2001: 无法解析的外部符号 _gl3wNamedBufferStorage
+D:\OpenGl\glfw\lib-vc2019\glfw3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\OpenGl\glfw\lib-vc2019\glfw3dll.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\OpenGl\openGL\Debug\openGL.exe : fatal error LNK1120: 20 个无法解析的外部命令

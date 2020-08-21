@@ -1,0 +1,2 @@
+D:\OpenGl\openGL\x64\Debug\openGL.exe
+D:\OpenGl\openGL\x64\Debug\openGL.pdb
